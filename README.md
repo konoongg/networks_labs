@@ -13,7 +13,7 @@
 
 ## lab 0 (wireshark)
 
-  ![Uploading image.png…]()
+  ![image](https://github.com/user-attachments/assets/dffb848e-74b8-47c7-84fb-1fb6d54fe27d)
 
 
   1) установите wireshark
