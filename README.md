@@ -64,7 +64,8 @@
 
 ## lab 3 (днс)
 
-![image](https://github.com/user-attachments/assets/58d26f55-3339-4f44-8a74-d279a2e7d9d1)
+![image](https://github.com/user-attachments/assets/7f219568-1c62-47ad-857b-0e9b37cdb41c)
+
 
 
 в реальной жизни нкито не пользуется ip  адресами, а пишут домейные имена, добавьте такой функционал
