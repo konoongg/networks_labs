@@ -83,8 +83,13 @@
 1) должны сохранятся данные о всех операциях в интернете, кто и кому какие данные отправил
 2) все сообщения начинающиеся со слов SPAM, DDOS а также bittorrent протокол должны блокироваться
 3) придумайте способ обойти эти ограничения) 
-   
-## lab 5 (кластер)
+
+
+## lab 5 (bpf)
+![image](https://github.com/user-attachments/assets/91bbf314-7fd4-486e-8f45-75ebb7c8d943)
+
+
+## lab 6 (кластер)
 
 ![image](https://github.com/user-attachments/assets/d5de62c4-5090-4ad7-a858-b29f8b34fbf4)
 
