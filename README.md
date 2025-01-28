@@ -84,12 +84,17 @@
 2) все сообщения начинающиеся со слов SPAM, DDOS а также bittorrent протокол должны блокироваться
 3) придумайте способ обойти эти ограничения) 
 
+## lab 5 (nat)
 
-## lab 5 (bpf)
+![image](https://github.com/user-attachments/assets/607a7965-5136-42ed-9da8-11e81a82f3ca)
+
+
+
+## lab 6 (bpf)
 ![image](https://github.com/user-attachments/assets/91bbf314-7fd4-486e-8f45-75ebb7c8d943)
 
 
-## lab 6 (кластер)
+## lab 7 (кластер)
 
 ![image](https://github.com/user-attachments/assets/d5de62c4-5090-4ad7-a858-b29f8b34fbf4)
 
