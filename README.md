@@ -155,7 +155,7 @@
 ![image](https://github.com/user-attachments/assets/d5de62c4-5090-4ad7-a858-b29f8b34fbf4)
 
 Вместо ВМ можно использовать контейнеры
-https://vk.com/topic-64649419_36089444 - пункт 2
+https://vk.com/topic-64649419_36089444
 
 
 ## Система оценивания курса
